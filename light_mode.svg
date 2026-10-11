@@ -8,21 +8,21 @@ text, tspan { font-family: "ConsolasFallback", Consolas, "SF Mono", Menlo, "Deja
 <text x="420" y="30" fill="#24292f">marcelo@marqueti <tspan fill="#c2cfde">---------------------------------------</tspan></text>
 <text x="420" y="50" fill="#953800">OS:</text><text x="965" y="50" text-anchor="end" fill="#0a3069">macOS, iOS, Linux</text>
 <text x="420" y="70" fill="#953800">Uptime:</text><text x="965" y="70" text-anchor="end" fill="#0a3069">21 years, 9 months, 10 days</text>
-<text x="420" y="90" fill="#953800">Host:</text><text x="965" y="90" text-anchor="end" fill="#0a3069">iFood · Novos Negócios</text>
+<text x="420" y="90" fill="#953800">Host:</text><text x="965" y="90" text-anchor="end" fill="#0a3069">iFood · Builder</text>
 <text x="420" y="110" fill="#953800">Kernel:</text><text x="965" y="110" text-anchor="end" fill="#0a3069">Head of Product (IC)</text>
-<text x="420" y="130" fill="#953800">IDE:</text><text x="965" y="130" text-anchor="end" fill="#0a3069">Claude Code, VSCode, iTerm2</text>
-<text x="420" y="160" fill="#953800">Languages.Product:</text><text x="965" y="160" text-anchor="end" fill="#0a3069">Strategy, Discovery, AI, Marketplaces</text>
-<text x="420" y="180" fill="#953800">Languages.Code:</text><text x="965" y="180" text-anchor="end" fill="#0a3069">TypeScript, Python, SQL</text>
-<text x="420" y="200" fill="#953800">Languages.Real:</text><text x="965" y="200" text-anchor="end" fill="#0a3069">Portuguese, Italian, English</text>
+<text x="420" y="130" fill="#953800">IDE:</text><text x="965" y="130" text-anchor="end" fill="#0a3069">Claude Code, iTerm2</text>
+<text x="420" y="160" fill="#953800">Languages.Product:</text><text x="965" y="160" text-anchor="end" fill="#0a3069">Strategy, Discovery, AI, Nobile Apps</text>
+<text x="420" y="180" fill="#953800">Languages.Code:</text><text x="965" y="180" text-anchor="end" fill="#0a3069">TypeScript, Python, Node, Ruby</text>
+<text x="420" y="200" fill="#953800">Languages.Real:</text><text x="965" y="200" text-anchor="end" fill="#0a3069">Portuguese, English</text>
 <text x="420" y="230" fill="#953800">Building.Now:</text><text x="965" y="230" text-anchor="end" fill="#0a3069">Toqan para Restaurantes, Gomo</text>
-<text x="420" y="250" fill="#953800">Company:</text><text x="965" y="250" text-anchor="end" fill="#0a3069">Liveshop Sistemas e Consultoria</text>
-<text x="420" y="270" fill="#953800">Based:</text><text x="965" y="270" text-anchor="end" fill="#0a3069">Campinas, BR · BR/IT citizen</text>
+<text x="420" y="250" fill="#953800">Company:</text><text x="965" y="250" text-anchor="end" fill="#0a3069">iFood · Liveshop Sistemas</text>
+<text x="420" y="270" fill="#953800">Based:</text><text x="965" y="270" text-anchor="end" fill="#0a3069">BR / IT</text>
 <text x="420" y="300" fill="#24292f">Contact <tspan fill="#c2cfde">------------------------------------------------</tspan></text>
-<text x="420" y="320" fill="#953800">Website:</text><text x="965" y="320" text-anchor="end" fill="#0a3069">restaurantes.toqan.ai</text>
-<text x="420" y="340" fill="#953800">LinkedIn:</text><text x="965" y="340" text-anchor="end" fill="#0a3069">mmarqueti</text>
+<text x="420" y="320" fill="#953800">Website:</text><text x="965" y="320" text-anchor="end" fill="#0a3069">marcelomarchetti.com</text>
+<text x="420" y="340" fill="#953800">LinkedIn:</text><text x="965" y="340" text-anchor="end" fill="#0a3069">marceloamarchetti</text>
 <text x="420" y="360" fill="#953800">GitHub:</text><text x="965" y="360" text-anchor="end" fill="#0a3069">mmarqueti</text>
 <text x="420" y="390" fill="#24292f">GitHub Stats <tspan fill="#c2cfde">-------------------------------------------</tspan></text>
 <text x="420" y="410" fill="#953800">Repos:<tspan fill="#0a3069"> 53</tspan><tspan fill="#24292f"> (Contributed: </tspan><tspan fill="#0a3069">30</tspan><tspan fill="#24292f">)</tspan></text><text x="965" y="410" text-anchor="end" fill="#953800">Stars: <tspan fill="#0a3069">26</tspan></text>
-<text x="420" y="430" fill="#953800">Commits:<tspan fill="#0a3069"> 34</tspan></text><text x="965" y="430" text-anchor="end" fill="#953800">Followers: <tspan fill="#0a3069">22</tspan></text>
+<text x="420" y="430" fill="#953800">Commits:<tspan fill="#0a3069"> 36</tspan></text><text x="965" y="430" text-anchor="end" fill="#953800">Followers: <tspan fill="#0a3069">22</tspan></text>
 <text x="965" y="450" text-anchor="end" fill="#c2cfde" font-size="12">updated 2026-10-11</text>
 </svg>
