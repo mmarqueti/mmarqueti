@@ -13,7 +13,7 @@ from html import escape
 HERE = os.path.dirname(os.path.abspath(__file__))
 
 # ----------------------------------------------------------------- CONFIG ---
-HEADER = "marcelo@marqueti"
+HEADER = "marcelo marchetti"
 CAREER_START = date(2005, 1, 1)  # usado no "Uptime" (ajuste para o ano real)
 
 SECTIONS = [
