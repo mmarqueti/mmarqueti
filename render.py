@@ -20,25 +20,25 @@ SECTIONS = [
     [
         ("OS", "macOS, iOS, Linux"),
         ("Uptime", "{uptime}"),
-        ("Host", "iFood · Novos Negócios"),
+        ("Host", "iFood · Builder"),
         ("Kernel", "Head of Product (IC)"),
-        ("IDE", "Claude Code, VSCode, iTerm2"),
+        ("IDE", "Claude Code, iTerm2"),
     ],
     [
-        ("Languages.Product", "Strategy, Discovery, AI, Marketplaces"),
-        ("Languages.Code", "TypeScript, Python, SQL"),
-        ("Languages.Real", "Portuguese, Italian, English"),
+        ("Languages.Product", "Strategy, Discovery, AI, Nobile Apps"),
+        ("Languages.Code", "TypeScript, Python, Node, Ruby"),
+        ("Languages.Real", "Portuguese, English"),
     ],
     [
         ("Building.Now", "Toqan para Restaurantes, Gomo"),
-        ("Company", "Liveshop Sistemas e Consultoria"),
-        ("Based", "Campinas, BR · BR/IT citizen"),
+        ("Company", "iFood · Liveshop Sistemas"),
+        ("Based", "BR / IT"),
     ],
 ]
 
 CONTACT = [
-    ("Website", "restaurantes.toqan.ai"),
-    ("LinkedIn", "mmarqueti"),
+    ("Website", "marcelomarchetti.com"),
+    ("LinkedIn", "marceloamarchetti"),
     ("GitHub", "mmarqueti"),
 ]
 
