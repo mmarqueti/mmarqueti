@@ -22,7 +22,7 @@ text, tspan { font-family: "ConsolasFallback", Consolas, "SF Mono", Menlo, "Deja
 <text x="420" y="340" fill="#953800">LinkedIn:</text><text x="965" y="340" text-anchor="end" fill="#0a3069">marceloamarchetti</text>
 <text x="420" y="360" fill="#953800">GitHub:</text><text x="965" y="360" text-anchor="end" fill="#0a3069">mmarqueti</text>
 <text x="420" y="390" fill="#24292f">GitHub Stats <tspan fill="#c2cfde">-------------------------------------------</tspan></text>
-<text x="420" y="410" fill="#953800">Repos:<tspan fill="#0a3069"> 59</tspan><tspan fill="#24292f"> (Contributed: </tspan><tspan fill="#0a3069">36</tspan><tspan fill="#24292f">)</tspan></text><text x="965" y="410" text-anchor="end" fill="#953800">Stars: <tspan fill="#0a3069">26</tspan></text>
+<text x="420" y="410" fill="#953800">Repos:<tspan fill="#0a3069"> 60</tspan><tspan fill="#24292f"> (Contributed: </tspan><tspan fill="#0a3069">37</tspan><tspan fill="#24292f">)</tspan></text><text x="965" y="410" text-anchor="end" fill="#953800">Stars: <tspan fill="#0a3069">26</tspan></text>
 <text x="420" y="430" fill="#953800">Commits:<tspan fill="#0a3069"> 62</tspan></text><text x="965" y="430" text-anchor="end" fill="#953800">Followers: <tspan fill="#0a3069">22</tspan></text>
 <text x="965" y="450" text-anchor="end" fill="#c2cfde" font-size="12">updated 2026-10-29</text>
 </svg>
