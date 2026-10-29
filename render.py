@@ -25,7 +25,7 @@ SECTIONS = [
         ("IDE", "Claude Code, iTerm2"),
     ],
     [
-        ("Languages.Product", "Strategy, Discovery, AI, Nobile Apps"),
+        ("Languages.Product", "Strategy, Discovery, AI, Mobile Apps"),
         ("Languages.Code", "TypeScript, Python, Node, Ruby"),
         ("Languages.Real", "Portuguese, English"),
     ],
